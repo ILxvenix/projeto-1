@@ -1,6 +1,6 @@
-# meu primeiro projeto do alura 
-estou criando um jogo 
+# Meu primeiro projeto do alura 
+Estou criando um jogo. 
 
-## tecnologias utilizadas 
-- javascript 
-- git 
+## Tecnologias utilizadas 
+- JavaScript. 
+- Git. 
